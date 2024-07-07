@@ -14,7 +14,7 @@
 
 <h3 align="left">My Websites</h3>
 <p align="left">
-<a href="https://mateus2k2.github.io/portfolio-react/" target="blank"><img align="center" src="https://img.icons8.com/color/48/domain--v1.png" alt="7538"/></a>
+<a href="https://mateus2k2.github.io/portfolio-react/" target="blank"><img align="center" src="https://raw.githubusercontent.com/mateus2k2/mateus2k2/master/blog.svg" alt="7538" height="30" width="40"/></a>
 <a href="https://mateus2k2.github.io/en/" target="blank"><img align="center" src="https://img.icons8.com/color/48/blog.png" alt="7538" /></a>
 </p>
 
