@@ -1,7 +1,9 @@
 <h1 align="center">Olá 👋, Sou Mateus Filipe</h1>
 <h3 align="center">Estudante de computação no Brazil</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateus2k2" alt="mateus2k2" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateus2k2&label=Profile%20views&color=0e75b6&style=flat" alt="mateus2k2" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
